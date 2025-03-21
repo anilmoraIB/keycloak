@@ -1,0 +1,26 @@
+.card-pf{
+    border-radius: 15px;
+    margin-top: 70px;
+    border: none;
+}
+
+.login-pf-header{
+    height: 90px;
+}
+
+#kc-info-wrapper{
+    border-radius: 15px;
+}
+
+#kc-page-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#kc-page-title img {
+    max-width: 270px;
+    height: 70px;
+}
+
